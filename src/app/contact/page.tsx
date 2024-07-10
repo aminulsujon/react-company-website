@@ -44,7 +44,7 @@ export default function Home() {
         <div className="ml-4">
           <h2 className="font-bold mb-2">Get in touch</h2>
             <div>Phone: <i>+880 1617 440880</i></div>
-            <div>Email: <i>thirdgear@gmail.com</i></div>
+            <div>Email: <i>aminul532sujon@gmail.com</i></div>
             <div>Address: <i>Dhaka, Bangladesh</i></div>
             <div className="mt-4">
               <Social />
