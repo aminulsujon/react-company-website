@@ -6,8 +6,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Speed box",
-  description: "Speed up your website with latest technology",
+  title: "Third Gear",
+  description: "Speed up your production latest technology",
 };
 
 export default function RootLayout({
