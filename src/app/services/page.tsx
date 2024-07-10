@@ -39,6 +39,37 @@ export default function Home() {
           height={37}
           priority
         />
+        <div className="ml-4">
+          <h2 className="font-bold mb-2">Our Services</h2>
+            <div><Image
+              src="ok.svg"
+              alt="square gear"
+              className="inline dark:invert"
+              width={15}
+              height={15}
+              priority
+            /> &nbsp;Electrical drive & Automation Systems</div>
+            <div><Image
+              src="ok.svg"
+              alt="square gear"
+              className="inline dark:invert"
+              width={15}
+              height={15}
+              priority
+            /> &nbsp;Industrial Automation Project</div>
+            <div><Image
+              src="ok.svg"
+              alt="square gear"
+              className="inline dark:invert"
+              width={15}
+              height={15}
+              priority
+            /> &nbsp;PLC & Drive Based industrial automation Project</div>
+
+            <div className="mt-4">
+              <span className="rounded-lg border py-2 px-4 text-teal-900 bg-green-100">Call now +880 1617 440880</span>
+            </div>
+        </div>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">

@@ -39,6 +39,17 @@ export default function Home() {
           height={37}
           priority
         />
+        <div className="ml-4">
+            <h2 className="font-bold mb-2">About THIRD GEAR</h2>
+            <div>We are Authorized System Integrator & Support/Repair & Channel Partner In Bangladesh</div>
+            <div className="mt-2">
+            <a className="w-full items-center inline-flex duration-200 focus:outline-none font-medium justify-center px-4 py-0 rounded-xl text-center focus-visible:outline-black lg:w-auto bg-rose-500 focus-visible:ring-black hover:bg-rose-100 hover:text-rose-500 text-white" href="/signup">+880 1617 440880 &nbsp;&nbsp;
+                    <span className="font-bold text-2xl">
+                            →
+                    </span>
+                </a>
+            </div>
+        </div>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">

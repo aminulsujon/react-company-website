@@ -39,6 +39,50 @@ export default function Home() {
           height={37}
           priority
         />
+        <div className="ml-4">
+          <h2 className="font-bold mb-2">Our Projects</h2>
+            <div className="mb-2">
+            <Image
+                className="float-left mr-2 relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+                src="/a.png"
+                alt="square gear"
+                width={30}
+                height={20}
+                priority
+              />
+              Akij Ceramic Automation Systems
+              </div>
+            <div className="mb-2">
+            <Image
+                className="float-left mr-2 relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+                src="/w.png"
+                alt="square gear"
+                width={30}
+                height={20}
+                priority
+              />
+              Walton Industrial Automation Project</div>
+            <div className="mb-2">
+            <Image
+                className="float-left mr-2 relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+                src="/s.png"
+                alt="square gear"
+                width={30}
+                height={20}
+                priority
+              />
+              Square Industrial Control</div>
+            <div className="mb-2">
+            <Image
+                className="float-left mr-2 relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+                src="/m.png"
+                alt="square gear"
+                width={30}
+                height={20}
+                priority
+              />
+              Meghna Routing Automation</div>
+        </div>
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:w-full lg:max-w-5xl lg:grid-cols-4 lg:text-left">
