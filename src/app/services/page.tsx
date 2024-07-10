@@ -65,7 +65,6 @@ export default function Home() {
               height={15}
               priority
             /> &nbsp;PLC & Drive Based industrial automation Project</div>
-
             <div className="mt-4">
               <span className="rounded-lg border py-2 px-4 text-teal-900 bg-green-100">Call now +880 1617 440880</span>
             </div>
