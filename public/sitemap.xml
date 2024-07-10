@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
     <url>
-        <loc>[site-url]</loc>
+        <loc>https://third-gear.vercel.app</loc>
         <image:image>
-            <image:loc>[]/square-gear.svg</image:loc>
+            <image:loc>https://third-gear.vercel.app/square-gear.svg</image:loc>
             <image:caption>Logo</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>[site-url]/about</loc>
+        <loc>https://third-gear.vercel.app/about</loc>
         <image:image>
-            <image:loc>[]/square-gear.svg</image:loc>
+            <image:loc>https://third-gear.vercel.app/square-gear.svg</image:loc>
             <image:caption>Logo</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>[site-url]/services</loc>
+        <loc>https://third-gear.vercel.app/services</loc>
         <image:image>
-            <image:loc>[]/square-gear.svg</image:loc>
+            <image:loc>https://third-gear.vercel.app/square-gear.svg</image:loc>
             <image:caption>Logo</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>[site-url]/projects</loc>
+        <loc>https://third-gear.vercel.app/projects</loc>
         <image:image>
-            <image:loc>[]/square-gear.svg</image:loc>
+            <image:loc>https://third-gear.vercel.app/square-gear.svg</image:loc>
             <image:caption>Logo</image:caption>
         </image:image>
     </url>
     <url>
-        <loc>[site-url]/contact</loc>
+        <loc>https://third-gear.vercel.app/contact</loc>
         <image:image>
-            <image:loc>[]/square-gear.svg</image:loc>
+            <image:loc>https://third-gear.vercel.app/square-gear.svg</image:loc>
             <image:caption>Logo</image:caption>
         </image:image>
     </url>

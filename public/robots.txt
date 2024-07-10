@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: []/sitemap.xml
+Sitemap: https://third-gear.vercel.app/sitemap.xml
