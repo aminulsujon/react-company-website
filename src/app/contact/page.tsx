@@ -6,7 +6,7 @@ import Bottomnav from './../components/Bottomnav';
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
+      <div className="z-10 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex mb-4">
         
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:size-auto lg:bg-none">
           <a
@@ -41,10 +41,20 @@ export default function Home() {
           height={37}
           priority
         />
+        <div className="mb-4 sm:mb-0 mx-8 border border-green-100 shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)]">
+          <Image
+            className="p-2 dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
+            src="/upload/map.png"
+            alt="square gear"
+            width={400}
+            height={232}
+            priority
+          />
+        </div>
         <div className="ml-4">
           <h2 className="font-bold mb-2">Get in touch</h2>
-            <div>Phone: <i>+880 1617 440880</i></div>
-            <div>Email: <i>thirdgear@gmail.com</i></div>
+            <div>Phone: <i>+880 1716 330532</i></div>
+            <div>Email: <i>third.gear.tech@gmail.com</i></div>
             <div>Address: <i>Dhaka, Bangladesh</i></div>
             <div className="mt-4">
               <Social />
